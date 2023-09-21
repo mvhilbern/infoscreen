@@ -58,10 +58,11 @@ Bitte mit dem Aufladen des Chips warten. Peter gibt dazu eine genaue Einführung
 
 ## Die nächsten Termine
 
-1. 24.09.2023 Erntedankfest Sierning (JK + TK)
-  1.1 Frühschoppen TK: 11:30 - 12:30 
-1. 01.10.2023 Erntedankfest Bad Hall (TK)
-1. 26.10.2023 Konzert Gästezentrum JK
+24.09.2023 Erntedankfest Sierning (TK + JK)
+    Frühschoppen TK: 11:30 - 12:30   
+
+01.10.2023 Erntedankfest Bad Hall (TK)
+26.10.2023 Konzert Gästezentrum (JK)
 
 --
 
