@@ -58,15 +58,10 @@ Bitte mit dem Aufladen des Chips warten. Peter gibt dazu eine genaue Einführung
 
 ## Die nächsten Termine
 
-
-
-(actually: line breaks in long lines in lists...)
-
-* First Term  
-This is the definition of the first term.
-* Second Term  
-This is one definition of the second term.  
-This is another definition of the second term.
+* 24.09.2023 Erntedankfest Sierning (TK + JK)  
+Frühschoppen TK: 11:30 - 12:30
+* 01.10.2023 Erntedankfest Bad Hall (TK)  
+* 26.10.2023 Konzert Gästezentrum (JK)  
 
 --
 
