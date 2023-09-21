@@ -1,8 +1,11 @@
-# Infos zum Musikverein Hilbern
+# Herzlich Willkommen im neuen Musikheim
+<span>To say it with
+[Dilbert](https://dilbert.com/strip/1995-12-10):</span><!-- .element: class="decent x-small"-->
 
+![](https://assets.amuniversal.com/0e1eaf909fcf012f2fe600163e41dd5b)
 --
 
-## Typography
+# Es herrscht HAUSSCHUHPFLICHT ;)
 
 ---
 
