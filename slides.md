@@ -58,8 +58,11 @@ Bitte mit dem Aufladen des Chips warten. Peter gibt dazu eine genaue Einführung
 
 ## Die nächsten Termine
 
+* 23.09.2023 Poltern Josef und Simone  
+Treffpunkt: 17:00 Uhr bei Armin
 * 24.09.2023 Erntedankfest Sierning (TK + JK)  
-Frühschoppen TK: 11:30 - 12:30
+Treffpunkt: 08:00 Uhr Eder
+Frühschoppen TK: 11:30 Uhr - 12:30 Uhr
 * 01.10.2023 Erntedankfest Bad Hall (TK)  
 * 26.10.2023 Konzert Gästezentrum (JK)  
 
@@ -68,6 +71,7 @@ Frühschoppen TK: 11:30 - 12:30
 ## Wir proben heute:
 
 * Appalachian Ouverture
-* Party Dance Mix
-* Don't Stop Believin'
 * The Best of Red Hot Chili Peppers
+* A Sky full of Stars
+* The Rose
+* Ehrenwort
