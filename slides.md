@@ -1,6 +1,10 @@
 ### Herzlich Willkommen im neuen Musikheim
 ![](https://mvhilbern.at/images/headers/Gesamtfoto-2-Kopie.jpg)
 
+---
+### Herzlich Willkommen im neuen Musikheim
+![](https://mvhilbern.at/images/slider/Jugendkapelle%202022.jpg)
+
 --
 
 ## Es herrscht HAUSSCHUHPFLICHT ;)
@@ -33,24 +37,22 @@ Bitte mit dem Aufladen des Chips warten. Peter gibt dazu eine genaue Einführung
 ---
 
 ## Technik im Musikheim
-
-Das gesamte Musikheim ist ein "Smart Home" und wird über einen Schaltzentrale gesteuert.
-
-Solltet ihr Wünsche, Anregungen oder Fragen zur Bedienung (Lichtschalter, Audio, Lüftung, ...) haben, bitte an Peter / Hannes Plaß / Karl Muttenthaler / Dominik Polterauer wenden.
+* Das gesamte Musikheim ist ein "Smart Home" und wird über einen zentralen Computer gesteuert.
+* Solltet ihr Wünsche, Anregungen oder Fragen zur Bedienung (Lichtschalter, Audio, Lüftung, ...) haben, bitte an Peter / Hannes Plaß / Karl Muttenthaler / Dominik Polterauer wenden.
 
 ---
 
 ## Zutritt zum Gebäude
 
-Jeder Musiker kann einen Zutrittschip zum Musikheim haben.
-Kosten: 20€ (Einsatz)
+* Jeder Musiker kann einen Zutrittschip zum Musikheim haben.
+* Kosten: 20€ (Einsatz)
 
 ---
 
 ## Zutrittsberechtigungen
 
-Nicht jeder Schlüssel sperrt jede Tür. So kann z.B. die Tür beim Schlagzeug nur von den Schlagzeugern + Vorstand aufgesperrt werden.
-Die Haupteingangstür kann von allen Musiker:innen aufgesperrt werden.
+* Nicht jeder Schlüssel sperrt jede Tür. So kann z.B. die Tür beim Schlagzeug nur von den Schlagzeugern + Vorstand aufgesperrt werden.
+* Die Haupteingangstür kann von allen Musiker:innen aufgesperrt werden.
 
 --
 
@@ -61,5 +63,11 @@ Die Haupteingangstür kann von allen Musiker:innen aufgesperrt werden.
 1. 01.10.2023 Erntedankfest Bad Hall (TK)
 1. 26.10.2023 Konzert Gästezentrum JK
 
+--
 
+## Wir proben heute:
 
+* Appalachian Ouverture
+* Party Dance Mix
+* Don't Stop Believin'
+* The Best of Red Hot Chili Peppers
