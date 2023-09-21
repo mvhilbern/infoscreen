@@ -1,11 +1,9 @@
-# Herzlich Willkommen im neuen Musikheim
-<span>To say it with
-[Dilbert](https://dilbert.com/strip/1995-12-10):</span><!-- .element: class="decent x-small"-->
+## Herzlich Willkommen im neuen Musikheim
 
-![](https://assets.amuniversal.com/0e1eaf909fcf012f2fe600163e41dd5b)
+![](https://mvhilbern.at/images/headers/Gesamtfoto-2-Kopie.jpg)
 --
 
-# Es herrscht HAUSSCHUHPFLICHT ;)
+## Es herrscht HAUSSCHUHPFLICHT ;)
 
 ---
 
