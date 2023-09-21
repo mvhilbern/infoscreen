@@ -1,5 +1,4 @@
-## Herzlich Willkommen im neuen Musikheim
-
+### Herzlich Willkommen im neuen Musikheim
 ![](https://mvhilbern.at/images/headers/Gesamtfoto-2-Kopie.jpg)
 
 --
