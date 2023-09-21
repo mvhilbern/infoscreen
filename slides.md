@@ -6,23 +6,20 @@
 
 ## Es herrscht HAUSSCHUHPFLICHT ;)
 
+--
+
+## Daten und Fakten
+
+> Spatenstich am 10. August 2022
+> Baustart Rohbau am 07. September 2022
+
 ---
 
-## Quotes
+## Daten und Fakten
 
-> Quotes are ~~hard~~ easy
-> to write - but you can use `code`
-
----
-
-## Styles
-
-You can freely mix **bold**, *italics*, `code` and normal styles
-
-* normal
-* **bold**
-* *italics*
-* `code`
+> Eigenleistung (derzeit): 3670 Stunden
+> Größe des Proberaums: 193m²
+> Derzeit größter Proberaum in OÖ
 
 --
 
