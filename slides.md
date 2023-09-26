@@ -61,21 +61,20 @@ Bitte mit dem Aufladen des Chips warten. Peter gibt dazu eine genaue Einführung
 
 ## 📆 Die nächsten Termine 📆
 
-* 23.09.2023 Poltern Simone und Josef  
-Treffpunkt: 17:00 Uhr bei Armin
-* 24.09.2023 Erntedankfest Sierning (TK + JK)  
-Treffpunkt: 08:00 Uhr Eder
-Frühschoppen TK: 11:30 Uhr - 12:30 Uhr
 * 01.10.2023 Erntedankfest Bad Hall (TK)
+Anschließend gratulieren bei Peter
 * 07.10.2023 Hochzeit Simone und Josef  
 * 26.10.2023 Konzert Gästezentrum (JK)  
+* 03.11.2023 bis 05.11.2023 Probenwochenende  
+* 12.11.2023 Cäciliamesse  
 
 --
 
 ## ♫ Wir proben heute ♫
 
-* Appalachian Ouverture
 * The Best of Red Hot Chili Peppers
+* Images of a City
+* You raise me up
 * A Sky full of Stars
-* The Rose
 * Ehrenwort
+* Unsere Reise
