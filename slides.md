@@ -61,9 +61,10 @@ Bitte mit dem Aufladen des Chips warten. Peter gibt dazu eine genaue Einführung
 
 ## 📆 Die nächsten Termine 📆
 
-* 01.10.2023 Erntedankfest Bad Hall (TK)
-Anschließend gratulieren bei Peter
+* 01.10.2023 Erntedankfest Bad Hall (TK)  
+Treffpunkt 09:00 Uhr Hametner, Anschließend gratulieren bei Peter
 * 07.10.2023 Hochzeit Simone und Josef  
+Treffpunkt 11:45 Uhr Kirche Bad Hall
 * 26.10.2023 Konzert Gästezentrum (JK)  
 * 03.11.2023 bis 05.11.2023 Probenwochenende  
 * 12.11.2023 Cäciliamesse  
@@ -72,9 +73,9 @@ Anschließend gratulieren bei Peter
 
 ## ♫ Wir proben heute ♫
 
-* The Best of Red Hot Chili Peppers
-* Images of a City
 * You raise me up
 * A Sky full of Stars
 * Ehrenwort
+* Ein Leben lang
+* Images of a City
 * Unsere Reise
