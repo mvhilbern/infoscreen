@@ -14,28 +14,19 @@
 
 --
 
-## 🏡 Daten und Fakten 🏡
-
-* Spatenstich am 10. August 2022
-* Baustart Rohbau am 07. September 2022
-
----
-
-## 🏡 Daten und Fakten 🏡
-
-* Eigenleistung (derzeit): 3670 Stunden
-* Größe des Proberaums: 193m²
-* Derzeit größter Proberaum in OÖ
-
---
-
 ## ❗Wichtige Infos zum Gebäude❗
 
 ---
 
 ## ❗Getränkeautomat❗
 
-Bitte mit dem Aufladen des Chips warten. Peter gibt dazu eine genaue Einführung!
+Bitte mit dem ERSTEN Aufladen des Chips warten und Peter um Hilfe bitten. Peter gibt dazu eine genaue Einführung!
+
+---
+
+## ❗Lüftung❗
+* Wir sind gerade am ermitteln der optimalen Betriebstemperatur und Lüftungsstufe.
+* Bitte habt ein wenig Geduld mit uns. Wir werden sichter einen guten Kompromiss finden.
 
 ---
 
@@ -48,7 +39,8 @@ Bitte mit dem Aufladen des Chips warten. Peter gibt dazu eine genaue Einführung
 ## ❗Zutritt zum Gebäude❗
 
 * Jeder Musiker kann einen Zutrittschip zum Musikheim haben.
-* Kosten: 20€ (Einsatz)
+* Zum Aufsperren der Türe muss der Schlüssel bündig an das an der Wand montierte Lesegerät gehalten werden.
+* Kosten eines Chips: 20€ (Einsatz)
 
 ---
 
@@ -59,7 +51,7 @@ Bitte mit dem Aufladen des Chips warten. Peter gibt dazu eine genaue Einführung
 
 --
 
-## 📆 Die nächsten Termine 📆
+## Die nächsten Termine
 
 * 07.10.2023 Hochzeit Simone und Josef  
 Treffpunkt 11:30 Uhr Kirche Bad Hall
@@ -72,6 +64,8 @@ Treffpunkt 11:30 Uhr Kirche Bad Hall
 ## ♫ Wir proben heute ♫
 
 * You raise me up
-* A Sky full of Stars
 * Ehrenwort
 * Ein Leben lang
+* A Sky full of Stars
+* The Rose
+* Viva La Vida
