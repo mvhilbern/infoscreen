@@ -1,11 +1,6 @@
-## 😍Herzlich Willkommen im neuen Musikheim😍
+## Herzlich Willkommen MV Nußbach
 
-![](https://mvhilbern.at/images/headers/Gesamtfoto-2-Kopie.jpg)
-
----
-## 😍Herzlich Willkommen im neuen Musikheim😍  
-
-![](https://mvhilbern.at/images/slider/Jugendkapelle%202022.jpg)
+![](https://scontent.fvie1-1.fna.fbcdn.net/v/t39.30808-6/307456156_510225921112935_8716888834573951691_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=VCg35k9voycAX_Y9Qhs&_nc_ht=scontent.fvie1-1.fna&oh=00_AfAosw6RfbrNQmDB3HNRQyaot-60_itQBYnmycyOt8qqqg&oe=652C0EB3)
 
 --
 
@@ -53,8 +48,6 @@ Bitte mit dem ERSTEN Aufladen des Chips warten und Peter um Hilfe bitten. Peter 
 
 ## Die nächsten Termine
 
-* 07.10.2023 Hochzeit Simone und Josef  
-Treffpunkt 11:30 Uhr Kirche Bad Hall
 * 26.10.2023 Konzert Gästezentrum (JK)  
 * 03.11.2023 bis 05.11.2023 Probenwochenende  
 * 12.11.2023 Cäciliamesse  
@@ -63,9 +56,8 @@ Treffpunkt 11:30 Uhr Kirche Bad Hall
 
 ## ♫ Wir proben heute ♫
 
-* You raise me up
-* Ehrenwort
-* Ein Leben lang
-* A Sky full of Stars
-* The Rose
-* Viva La Vida
+* Appalachian Overture
+* Air Poetique for Horn and Band
+* Kometenflug
+* The best of Red Hot Chili Peppers
+* St. Louis Blues
