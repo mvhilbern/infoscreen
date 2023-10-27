@@ -1,21 +1,21 @@
 ## Danke für euren gestrigen Besuch!
 
-![](https://mvhilbern.at/images/slideshow_musikheim/jk_gasestezentrum1.jpeg | width=1024)
+![](https://mvhilbern.at/images/slideshow_musikheim/jk_gasestezentrum1.jpeg)
 
 ---
 ## Danke für euren gestrigen Besuch!
 
-![](https://mvhilbern.at/images/slideshow_musikheim/jk_gasestezentrum2.jpeg | width=1024)
+![](https://mvhilbern.at/images/slideshow_musikheim/jk_gasestezentrum2.jpeg)
 
 ---
 ## Danke für euren gestrigen Besuch!
 
-![](https://mvhilbern.at/images/slideshow_musikheim/jk_gasestezentrum3.jpeg | width=1024)
+![](https://mvhilbern.at/images/slideshow_musikheim/jk_gasestezentrum3.jpeg)
 
 ---
 ## Danke für euren gestrigen Besuch!
 
-![](https://mvhilbern.at/images/slideshow_musikheim/jk_gasestezentrum4.jpeg | width=1024)
+![](https://mvhilbern.at/images/slideshow_musikheim/jk_gasestezentrum4.jpeg)
 
 
 --
