@@ -33,6 +33,8 @@
 * 26.11.2023 Kathreinkonzert  
   Anschließender Abschluss beim Bachmayr (Cola - Weiß Sonntag)
 
+--
+
 ## Ablauf Probenwochenende
 * Freitag, 03. November  
   Gesamtprobe
