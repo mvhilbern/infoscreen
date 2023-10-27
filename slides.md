@@ -17,10 +17,6 @@
 
 ![](https://mvhilbern.at/images/slideshow_musikheim/jk_gasestezentrum4.jpeg)
 
----
-## Danke für euren gestrigen Besuch!
-
-![](https://mvhilbern.at/images/slideshow_musikheim/jk_gasestezentrum5.jpeg)
 
 --
 
