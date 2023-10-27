@@ -1,35 +1,54 @@
-## Es herrscht HAUSSCHUHPFLICHT 
-👟👟
+## Danke für euren gestrigen Besuch!
 
---
-
-## ❗Wichtige Infos zum Gebäude❗
+![](https://mvhilbern.at/images/slideshow_musikheim/jk_gaestezentrum1.jpg)
 
 ---
+## Danke für euren gestrigen Besuch!
 
-## ❗Getränkeautomat❗
-
-Bitte mit dem ERSTEN Aufladen des Chips warten und Peter um Hilfe bitten. Peter gibt dazu eine genaue Einführung!
+![](https://mvhilbern.at/images/slideshow_musikheim/jk_gaestezentrum2.jpg)
 
 ---
+## Danke für euren gestrigen Besuch!
 
-## ❗Lüftung❗
-* Wir sind gerade am ermitteln der optimalen Betriebstemperatur und Lüftungsstufe.
-* Bitte habt ein wenig Geduld mit uns. Wir werden bestimmt einen guten Kompromiss finden.
+![](https://mvhilbern.at/images/slideshow_musikheim/jk_gaestezentrum3.jpg)
+
+---
+## Danke für euren gestrigen Besuch!
+
+![](https://mvhilbern.at/images/slideshow_musikheim/jk_gaestezentrum4.jpg)
+
+---
+## Danke für euren gestrigen Besuch!
+
+![](https://mvhilbern.at/images/slideshow_musikheim/jk_gaestezentrum5.jpg)
 
 --
 
 ## Die nächsten Termine
 
-* 26.10.2023 Konzert Gästezentrum (JK)  
 * 03.11.2023 bis 05.11.2023 Probenwochenende  
 * 12.11.2023 Cäciliamesse  
+* 25.11.2023 Kathreinkonzert  
+  Anschließender Abschluss in der Furtmühle
+* 26.11.2023 Kathreinkonzert  
+  Anschließender Abschluss beim Bachmayr (Cola - Weiß Sonntag)
+
+## Ablauf Probenwochenende
+* Freitag, 03. November  
+  Gesamtprobe
+* Samstag, 04. November  
+  09:00 - 12:00 Blech / Holzproben
+  12:00 - 13:00 Mittagspause
+  13:00 - 15:00 Detailprobe (gesamt)
+  15:30 - 17:00 Durchlaufprobe
+* Sonntag 05. November  
+  09:00 - 11:30 Detailprobe (gesamt)
 
 --
 
 ## ♫ Wir proben heute ♫
 
 * Appalachian Overture
+* Archivisten Polka
 * Kometenflug
-* The best of Red Hot Chili Peppers
-* St. Louis Blues
+* Das große Halali
