@@ -1,24 +1,22 @@
-## Danke für euren gestrigen Besuch!
+## Ablauf Probenwochenende
 
-![](https://mvhilbern.at/images/slideshow_musikheim/jk_gasestezentrum1.jpeg)
-
----
-## Danke für euren gestrigen Besuch!
-
-![](https://mvhilbern.at/images/slideshow_musikheim/jk_gasestezentrum2.jpeg)
-
----
-## Danke für euren gestrigen Besuch!
-
-![](https://mvhilbern.at/images/slideshow_musikheim/jk_gasestezentrum3.jpeg)
-
----
-## Danke für euren gestrigen Besuch!
-
-![](https://mvhilbern.at/images/slideshow_musikheim/jk_gasestezentrum4.jpeg)
-
+* Freitag, 03. November  
+  20:00 - 22:00 Gesamtprobe
 
 --
+## Ablauf Probenwochenende
+
+* Samstag, 04. November  
+  09:00 - 12:00 Blech / Holzproben  
+  12:00 - 13:00 Mittagspause  
+  13:00 - 15:00 Detailprobe (mit Jagdhornbläser)  
+  15:30 - 17:00 Durchlaufprobe  
+
+--
+## Ablauf Probenwochenende
+
+* Sonntag 05. November  
+  09:00 - 11:30 Detailprobe (gesamt)
 
 ## Die nächsten Termine
 
@@ -31,22 +29,8 @@
 
 --
 
-## Ablauf Probenwochenende
-* Freitag, 03. November  
-  Gesamtprobe
-* Samstag, 04. November  
-  09:00 - 12:00 Blech / Holzproben
-  12:00 - 13:00 Mittagspause
-  13:00 - 15:00 Detailprobe (gesamt)
-  15:30 - 17:00 Durchlaufprobe
-* Sonntag 05. November  
-  09:00 - 11:30 Detailprobe (gesamt)
-
---
-
 ## ♫ Wir proben heute ♫
 
-* Appalachian Overture
-* Archivisten Polka
-* Kometenflug
 * Das große Halali
+* St. Louis Blues
+* The Best of Red Hot Chili Peppers
