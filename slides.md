@@ -8,7 +8,7 @@
 ## Ablauf Probenwochenende
 
 * Samstag, 04. November  
-  09:00 - 12:00 Blech- / Holzproben
+  09:00 - 12:00 Blech- / Holzproben  
   12:00 - 13:00 Mittagspause  
   13:00 - 15:00 Detailprobe (mit Jagdhornbläser)  
   15:30 - 17:00 Durchlaufprobe  
