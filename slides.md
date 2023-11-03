@@ -4,6 +4,7 @@
   20:00 - 22:00 Gesamtprobe
 
 --
+
 ## Ablauf Probenwochenende
 
 * Samstag, 04. November  
@@ -13,10 +14,13 @@
   15:30 - 17:00 Durchlaufprobe  
 
 --
+
 ## Ablauf Probenwochenende
 
 * Sonntag 05. November  
   09:00 - 11:30 Detailprobe (gesamt)
+
+--
 
 ## Die nächsten Termine
 
